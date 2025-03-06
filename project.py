@@ -40,7 +40,7 @@ def ogrenci_ekle():
         "Soyad": soyad,
         "Numara": numara,
         "Bölüm": bolum,
-        "not_ortalamasi": not_ortalamasi # bakkkkk Not Ortalaması yapabılıyosan yap
+        "not_ortalamasi": not_ortalamasi 
     }
 
     ogrenciler.append(ogrenci)
